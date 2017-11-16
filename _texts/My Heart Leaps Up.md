@@ -6,7 +6,7 @@ editor: Nina Rosenblatt
 source: 
 ---
 
-- MY heart leaps up when I behold[^fn1]
+- MY heart leaps up when I behold [^fn1]
 - A rainbow in the sky;
 - So was it when my life began;
 - So is it now I am a man; 
