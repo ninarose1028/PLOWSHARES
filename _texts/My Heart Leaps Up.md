@@ -24,4 +24,4 @@ source:
 
 ## Footnotes
 
-[fn1]: The heart is an organ in the human body
+[^fn1]: The heart is an organ in the human body
